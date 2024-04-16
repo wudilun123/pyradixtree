@@ -1,0 +1,6 @@
+graft src
+graft tests
+
+include LICENSE
+include README.md
+include pytest.ini

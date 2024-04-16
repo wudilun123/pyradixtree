@@ -1,0 +1,12 @@
+[run]
+branch = true
+parallel = true
+source =
+    src.pyradixtree
+    tests
+omit =
+    __init__.py
+
+[report]
+show_missing = true
+precision = 2
